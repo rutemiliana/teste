@@ -1,4 +1,4 @@
-
+//beibe
 var dolce = ['Dolce Gusto', 'Caixa 16 capsulas','"img/CapsulaDulceGusto.jpg"','Expresso 96g - R$ 24,00', '"img/CapsulaDulceGustoDescafeinado.jpg"','Descafeinado 96g - R$ 21,00'];
         var senseo = ['Senseo', '18 sachês','"img/Senseo_Classico.jpg"','Clássico 120g - R$ 14,00', '"img/SenseoIntenso.jpg"','Intenso 120g - R$ 14,00'];
         var nespresso = ['Nespresso', '18 sachês','"img/NespressoLivanto.png"','Livanto - R$ 35,00', '"img/NespressoRistretto.png"', 'Ristretto - R$ 42,00', '"img/NespressoVanilio.png"', 'Vanilio - R$ 46,00',];
